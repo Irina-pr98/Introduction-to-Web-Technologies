@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(241, 206, 173, 0.664);
+}
+
+h1 {
+    color: rgb(90, 32, 32);
+}
+h2 {
+    color: rgb(143, 57, 57);
+}
+
+a {
+    color:brown;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    width: 500px;
+    margin-left: 50px;
+}
